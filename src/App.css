@@ -5,6 +5,7 @@
     flex-wrap: wrap;
     font-size:14px;
 }
+
 .App--loading{
     display: flex;
     justify-content: center;
